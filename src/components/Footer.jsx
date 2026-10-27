@@ -46,7 +46,7 @@ export default function Footer({ onSelectCategory }) {
                 100% Madeira Sustentável
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-pinus-900 text-pinus-300 text-[11px] font-semibold border border-pinus-800">
-                ★ 4.7 na Shopee (+10.000 clientes)
+                ★ 4.7 de Avaliação (+10.000 clientes)
               </span>
             </div>
           </div>
@@ -92,15 +92,10 @@ export default function Footer({ onSelectCategory }) {
               </div>
 
               <div className="flex items-center gap-2">
-                <ExternalLink className="w-4 h-4 text-[#EE4D2D] flex-shrink-0" />
-                <a
-                  href={STORE_INFO.shopeeStoreUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-[#EE4D2D] transition-colors"
-                >
-                  Loja Oficial na Shopee Brasil
-                </a>
+                <ShieldCheck className="w-4 h-4 text-emerald-400 flex-shrink-0" />
+                <span className="text-stone-300">
+                  Vendas Diretas de Fábrica com Envio Seguro
+                </span>
               </div>
 
               <div className="flex items-start gap-2 pt-1">

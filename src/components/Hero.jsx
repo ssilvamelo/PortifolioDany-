@@ -95,7 +95,7 @@ export default function Hero({ onOpenProductModal }) {
 
               <div className="text-xs text-stone-600 flex items-center gap-1.5">
                 <Award className="w-4 h-4 text-pinus-600" />
-                <span className="font-semibold text-stone-900">Top Vendedor na Shopee</span>
+                <span className="font-semibold text-stone-900">Marcenaria Própria Direto de Fábrica</span>
               </div>
             </div>
 

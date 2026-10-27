@@ -18,16 +18,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23694453628",
     "badge": "🏆 Campeão de Vendas #1",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 1m de anúncio",
-    "itemId": "23694453628"
+    "itemId": "23694453628",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-02",
@@ -48,16 +53,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22792991565",
     "badge": "🔥 Top 3 Mais Vendidos",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 anos 6m de anúncio",
-    "itemId": "22792991565"
+    "itemId": "22792991565",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-03",
@@ -78,16 +88,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23934688144",
     "badge": "🔥 Top 3 Mais Vendidos",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "65cm (Comprimento) × 28cm (Profundidade) × 45cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 65cm (Comprimento) × 28cm (Profundidade) × 45cm (Altura)",
+      "Peso aproximado: 4,6 kg",
+      "Capacidade de Carga: Suporta até 120 kg (assento reforçado)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 3 anos 7m de anúncio",
-    "itemId": "23934688144"
+    "itemId": "23934688144",
+    "dimensionsCompact": "65 × 28 × 45 cm",
+    "weight": "4,6 kg",
+    "weightCapacity": "Suporta até 120 kg (assento reforçado)"
   },
   {
     "id": "sp-04",
@@ -108,16 +123,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58212443867",
     "badge": "⭐ Escolha dos Clientes",
     "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira maciça de pinus.",
-    "dimensions": "Tampo espaçoso e prateleira inferior de apoio para livros e celular.",
+    "dimensions": "50cm (Comprimento) × 35cm (Profundidade) × 55cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 50cm (Comprimento) × 35cm (Profundidade) × 55cm (Altura)",
+      "Peso aproximado: 3,5 kg",
+      "Capacidade de Carga: Suporta até 30 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 4 meses de anúncio",
-    "itemId": "58212443867"
+    "itemId": "58212443867",
+    "dimensionsCompact": "50 × 35 × 55 cm",
+    "weight": "3,5 kg",
+    "weightCapacity": "Suporta até 30 kg"
   },
   {
     "id": "sp-05",
@@ -138,16 +158,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23197994502",
     "badge": "⭐ Escolha dos Clientes",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "30cm (Comprimento) × 30cm (Profundidade) × 75cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 30cm (Comprimento) × 30cm (Profundidade) × 75cm (Altura)",
+      "Peso aproximado: 3,8 kg",
+      "Capacidade de Carga: Suporta até 40 kg (10 kg por prateleira)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 anos de anúncio",
-    "itemId": "23197994502"
+    "itemId": "23197994502",
+    "dimensionsCompact": "30 × 30 × 75 cm",
+    "weight": "3,8 kg",
+    "weightCapacity": "Suporta até 40 kg (10 kg por prateleira)"
   },
   {
     "id": "sp-06",
@@ -168,16 +193,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23194269757",
     "badge": "⭐ Escolha dos Clientes",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
+      "Peso aproximado: 2,2 kg",
+      "Capacidade de Carga: Suporta até 25 kg (4 a 6 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 3m de anúncio",
-    "itemId": "23194269757"
+    "itemId": "23194269757",
+    "dimensionsCompact": "60 × 25 × 32 cm",
+    "weight": "2,2 kg",
+    "weightCapacity": "Suporta até 25 kg (4 a 6 pares)"
   },
   {
     "id": "sp-07",
@@ -198,16 +228,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22098664091",
     "badge": "✨ Nota 4.8+ Máxima Avaliação",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 4m de anúncio",
-    "itemId": "22098664091"
+    "itemId": "22098664091",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-08",
@@ -228,16 +263,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22194507488",
     "badge": "",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "50cm (Comprimento) × 25cm (Profundidade) × 65cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 50cm (Comprimento) × 25cm (Profundidade) × 65cm (Altura)",
+      "Peso aproximado: 3,0 kg",
+      "Capacidade de Carga: Suporta até 30 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 1m de anúncio",
-    "itemId": "22194507488"
+    "itemId": "22194507488",
+    "dimensionsCompact": "50 × 25 × 65 cm",
+    "weight": "3,0 kg",
+    "weightCapacity": "Suporta até 30 kg"
   },
   {
     "id": "sp-09",
@@ -258,16 +298,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58259915812",
     "badge": "",
     "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
-    "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
+    "dimensions": "45cm (Comprimento) × 25cm (Profundidade) × 40cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 45cm (Comprimento) × 25cm (Profundidade) × 40cm (Altura)",
+      "Peso aproximado: 1,8 kg",
+      "Capacidade de Carga: Suporta até 20 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 6 meses de anúncio",
-    "itemId": "58259915812"
+    "itemId": "58259915812",
+    "dimensionsCompact": "45 × 25 × 40 cm",
+    "weight": "1,8 kg",
+    "weightCapacity": "Suporta até 20 kg"
   },
   {
     "id": "sp-10",
@@ -288,16 +333,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22094070416",
     "badge": "",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "30cm (Comprimento) × 30cm (Profundidade) × 75cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 30cm (Comprimento) × 30cm (Profundidade) × 75cm (Altura)",
+      "Peso aproximado: 3,8 kg",
+      "Capacidade de Carga: Suporta até 40 kg (10 kg por prateleira)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 5m de anúncio",
-    "itemId": "22094070416"
+    "itemId": "22094070416",
+    "dimensionsCompact": "30 × 30 × 75 cm",
+    "weight": "3,8 kg",
+    "weightCapacity": "Suporta até 40 kg (10 kg por prateleira)"
   },
   {
     "id": "sp-11",
@@ -318,16 +368,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23594248991",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
+      "Peso aproximado: 2,2 kg",
+      "Capacidade de Carga: Suporta até 25 kg (4 a 6 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 3m de anúncio",
-    "itemId": "23594248991"
+    "itemId": "23594248991",
+    "dimensionsCompact": "60 × 25 × 32 cm",
+    "weight": "2,2 kg",
+    "weightCapacity": "Suporta até 25 kg (4 a 6 pares)"
   },
   {
     "id": "sp-12",
@@ -348,16 +403,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/18272983503",
     "badge": "",
     "description": "Kit de suportes mão francesa em madeira maciça de pinus reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
-    "dimensions": "Medidas padronizadas com furação precisa e instalação descomplicada.",
+    "dimensions": "22cm × 22cm × 3,5cm (cada unidade do kit com 10)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 22cm × 22cm × 3,5cm (cada unidade do kit com 10)",
+      "Peso aproximado: 1,9 kg (kit)",
+      "Capacidade de Carga: Suporta até 25 kg por par instalado",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 3 anos 9m de anúncio",
-    "itemId": "18272983503"
+    "itemId": "18272983503",
+    "dimensionsCompact": "22 × 22 × 3,5 cm (Kit 10un)",
+    "weight": "1,9 kg (kit)",
+    "weightCapacity": "Suporta até 25 kg por par instalado"
   },
   {
     "id": "sp-13",
@@ -378,16 +438,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22294166462",
     "badge": "🏷️ Preço de Fábrica",
     "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
-    "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
+    "dimensions": "25cm (Diâmetro interno) × 25cm (Altura total)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 25cm (Diâmetro interno) × 25cm (Altura total)",
+      "Peso aproximado: 0,85 kg",
+      "Capacidade de Carga: Suporta até 15 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 4m de anúncio",
-    "itemId": "22294166462"
+    "itemId": "22294166462",
+    "dimensionsCompact": "25 × 25 × 25 cm",
+    "weight": "0,85 kg",
+    "weightCapacity": "Suporta até 15 kg"
   },
   {
     "id": "sp-14",
@@ -408,16 +473,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22194003884",
     "badge": "🏷️ Preço de Fábrica",
     "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
-    "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
+    "dimensions": "25cm (Diâmetro interno) × 25cm (Altura total)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 25cm (Diâmetro interno) × 25cm (Altura total)",
+      "Peso aproximado: 0,85 kg",
+      "Capacidade de Carga: Suporta até 15 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 5m de anúncio",
-    "itemId": "22194003884"
+    "itemId": "22194003884",
+    "dimensionsCompact": "25 × 25 × 25 cm",
+    "weight": "0,85 kg",
+    "weightCapacity": "Suporta até 15 kg"
   },
   {
     "id": "sp-15",
@@ -438,16 +508,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58265706818",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 meses de anúncio",
-    "itemId": "58265706818"
+    "itemId": "58265706818",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-16",
@@ -468,16 +543,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/21754568271",
     "badge": "",
     "description": "Kit de suportes mão francesa em madeira maciça de pinus reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
-    "dimensions": "Medidas padronizadas com furação precisa e instalação descomplicada.",
+    "dimensions": "25cm × 25cm × 3,5cm (cada unidade do kit com 6)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 25cm × 25cm × 3,5cm (cada unidade do kit com 6)",
+      "Peso aproximado: 1,3 kg (kit)",
+      "Capacidade de Carga: Suporta até 30 kg por par instalado",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 4 anos 1m de anúncio",
-    "itemId": "21754568271"
+    "itemId": "21754568271",
+    "dimensionsCompact": "25 × 25 × 3,5 cm (Kit 6un)",
+    "weight": "1,3 kg (kit)",
+    "weightCapacity": "Suporta até 30 kg por par instalado"
   },
   {
     "id": "sp-17",
@@ -498,16 +578,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58265634800",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 meses de anúncio",
-    "itemId": "58265634800"
+    "itemId": "58265634800",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-18",
@@ -528,16 +613,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/20498261565",
     "badge": "",
     "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira maciça de pinus.",
-    "dimensions": "Tampo espaçoso e prateleira inferior de apoio para livros e celular.",
+    "dimensions": "60cm (Comprimento) × 30cm (Profundidade) × 75cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 30cm (Profundidade) × 75cm (Altura)",
+      "Peso aproximado: 4,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 4m de anúncio",
-    "itemId": "20498261565"
+    "itemId": "20498261565",
+    "dimensionsCompact": "60 × 30 × 75 cm",
+    "weight": "4,2 kg",
+    "weightCapacity": "Suporta até 35 kg"
   },
   {
     "id": "sp-19",
@@ -558,16 +648,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/20255667595",
     "badge": "",
     "description": "Kit de suportes mão francesa em madeira maciça de pinus reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
-    "dimensions": "Medidas padronizadas com furação precisa e instalação descomplicada.",
+    "dimensions": "25cm × 25cm × 3,5cm (cada unidade do kit com 8)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 25cm × 25cm × 3,5cm (cada unidade do kit com 8)",
+      "Peso aproximado: 1,7 kg (kit)",
+      "Capacidade de Carga: Suporta até 30 kg por par instalado",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 4 anos 1m de anúncio",
-    "itemId": "20255667595"
+    "itemId": "20255667595",
+    "dimensionsCompact": "25 × 25 × 3,5 cm (Kit 8un)",
+    "weight": "1,7 kg (kit)",
+    "weightCapacity": "Suporta até 30 kg por par instalado"
   },
   {
     "id": "sp-20",
@@ -588,16 +683,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23534487899",
     "badge": "✨ Nota 4.8+ Máxima Avaliação",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "65cm (Comprimento) × 28cm (Profundidade) × 45cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 65cm (Comprimento) × 28cm (Profundidade) × 45cm (Altura)",
+      "Peso aproximado: 4,6 kg",
+      "Capacidade de Carga: Suporta até 120 kg (assento reforçado)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 3 anos 7m de anúncio",
-    "itemId": "23534487899"
+    "itemId": "23534487899",
+    "dimensionsCompact": "65 × 28 × 45 cm",
+    "weight": "4,6 kg",
+    "weightCapacity": "Suporta até 120 kg (assento reforçado)"
   },
   {
     "id": "sp-21",
@@ -618,16 +718,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/21098265397",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 4m de anúncio",
-    "itemId": "21098265397"
+    "itemId": "21098265397",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-22",
@@ -648,16 +753,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23893325034",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 7m de anúncio",
-    "itemId": "23893325034"
+    "itemId": "23893325034",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-23",
@@ -678,16 +788,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/20698507210",
     "badge": "✨ Nota 4.8+ Máxima Avaliação",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
+      "Peso aproximado: 2,2 kg",
+      "Capacidade de Carga: Suporta até 25 kg (4 a 6 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 3 anos 6m de anúncio",
-    "itemId": "20698507210"
+    "itemId": "20698507210",
+    "dimensionsCompact": "60 × 25 × 32 cm",
+    "weight": "2,2 kg",
+    "weightCapacity": "Suporta até 25 kg (4 a 6 pares)"
   },
   {
     "id": "sp-24",
@@ -708,16 +823,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22395186499",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 meses de anúncio",
-    "itemId": "22395186499"
+    "itemId": "22395186499",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-25",
@@ -738,16 +858,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/18199766790",
     "badge": "✨ Nota 4.8+ Máxima Avaliação",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "50cm (Comprimento) × 25cm (Profundidade) × 65cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 50cm (Comprimento) × 25cm (Profundidade) × 65cm (Altura)",
+      "Peso aproximado: 3,0 kg",
+      "Capacidade de Carga: Suporta até 30 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 5m de anúncio",
-    "itemId": "18199766790"
+    "itemId": "18199766790",
+    "dimensionsCompact": "50 × 25 × 65 cm",
+    "weight": "3,0 kg",
+    "weightCapacity": "Suporta até 30 kg"
   },
   {
     "id": "sp-26",
@@ -768,16 +893,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22799439484",
     "badge": "",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "55cm (Comprimento) × 25cm (Profundidade) × 70cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 55cm (Comprimento) × 25cm (Profundidade) × 70cm (Altura)",
+      "Peso aproximado: 3,4 kg",
+      "Capacidade de Carga: Suporta até 35 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 6 meses de anúncio",
-    "itemId": "22799439484"
+    "itemId": "22799439484",
+    "dimensionsCompact": "55 × 25 × 70 cm",
+    "weight": "3,4 kg",
+    "weightCapacity": "Suporta até 35 kg"
   },
   {
     "id": "sp-27",
@@ -798,16 +928,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58215574638",
     "badge": "",
     "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
-    "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
+    "dimensions": "55cm (Comprimento) × 30cm (Profundidade) × 60cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 55cm (Comprimento) × 30cm (Profundidade) × 60cm (Altura)",
+      "Peso aproximado: 2,7 kg",
+      "Capacidade de Carga: Suporta até 25 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 meses de anúncio",
-    "itemId": "58215574638"
+    "itemId": "58215574638",
+    "dimensionsCompact": "55 × 30 × 60 cm",
+    "weight": "2,7 kg",
+    "weightCapacity": "Suporta até 25 kg"
   },
   {
     "id": "sp-28",
@@ -828,16 +963,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58266588936",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 50cm (Altura)",
+      "Peso aproximado: 3,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg (9 a 12 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 meses de anúncio",
-    "itemId": "58266588936"
+    "itemId": "58266588936",
+    "dimensionsCompact": "60 × 25 × 50 cm",
+    "weight": "3,2 kg",
+    "weightCapacity": "Suporta até 35 kg (9 a 12 pares)"
   },
   {
     "id": "sp-29",
@@ -858,16 +998,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23997736000",
     "badge": "🏷️ Preço de Fábrica",
     "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
-    "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
+    "dimensions": "20cm × 20cm × 3cm (cada unidade do kit com 4)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 20cm × 20cm × 3cm (cada unidade do kit com 4)",
+      "Peso aproximado: 0,9 kg (kit)",
+      "Capacidade de Carga: Suporta até 15 kg por suporte",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 anos 2m de anúncio",
-    "itemId": "23997736000"
+    "itemId": "23997736000",
+    "dimensionsCompact": "20 × 20 × 3 cm (Kit 4un)",
+    "weight": "0,9 kg (kit)",
+    "weightCapacity": "Suporta até 15 kg por suporte"
   },
   {
     "id": "sp-30",
@@ -888,16 +1033,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/21998975276",
     "badge": "",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
+      "Peso aproximado: 2,2 kg",
+      "Capacidade de Carga: Suporta até 25 kg (4 a 6 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 3 anos 1m de anúncio",
-    "itemId": "21998975276"
+    "itemId": "21998975276",
+    "dimensionsCompact": "60 × 25 × 32 cm",
+    "weight": "2,2 kg",
+    "weightCapacity": "Suporta até 25 kg (4 a 6 pares)"
   },
   {
     "id": "sp-31",
@@ -918,16 +1068,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/16077783674",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 32cm (Altura)",
+      "Peso aproximado: 2,2 kg",
+      "Capacidade de Carga: Suporta até 25 kg (4 a 6 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 4 anos 4m de anúncio",
-    "itemId": "16077783674"
+    "itemId": "16077783674",
+    "dimensionsCompact": "60 × 25 × 32 cm",
+    "weight": "2,2 kg",
+    "weightCapacity": "Suporta até 25 kg (4 a 6 pares)"
   },
   {
     "id": "sp-32",
@@ -948,16 +1103,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58266141640",
     "badge": "",
     "description": "Item organizador fabricado artesanalmente em madeira maciça de pinus reflorestado. Acabamento primoroso com toque suave e durabilidade garantida.",
-    "dimensions": "Design prático e versátil para organização residencial.",
+    "dimensions": "60cm (Comprimento) × 25cm (Profundidade) × 20cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 25cm (Profundidade) × 20cm (Altura)",
+      "Peso aproximado: 2,2 kg",
+      "Capacidade de Carga: Suporta até 25 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 meses de anúncio",
-    "itemId": "58266141640"
+    "itemId": "58266141640",
+    "dimensionsCompact": "60 × 25 × 20 cm",
+    "weight": "2,2 kg",
+    "weightCapacity": "Suporta até 25 kg"
   },
   {
     "id": "sp-33",
@@ -978,16 +1138,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58258892201",
     "badge": "",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "80cm (Comprimento) × 30cm (Profundidade) × 85cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 80cm (Comprimento) × 30cm (Profundidade) × 85cm (Altura)",
+      "Peso aproximado: 5,6 kg",
+      "Capacidade de Carga: Suporta até 50 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 6 meses de anúncio",
-    "itemId": "58258892201"
+    "itemId": "58258892201",
+    "dimensionsCompact": "80 × 30 × 85 cm",
+    "weight": "5,6 kg",
+    "weightCapacity": "Suporta até 50 kg"
   },
   {
     "id": "sp-34",
@@ -1008,16 +1173,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58218929651",
     "badge": "✨ Nota 4.8+ Máxima Avaliação",
     "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
-    "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
+    "dimensions": "20cm × 20cm × 3cm (cada unidade do kit com 4)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 20cm × 20cm × 3cm (cada unidade do kit com 4)",
+      "Peso aproximado: 0,9 kg (kit)",
+      "Capacidade de Carga: Suporta até 15 kg por suporte",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 mês de anúncio",
-    "itemId": "58218929651"
+    "itemId": "58218929651",
+    "dimensionsCompact": "20 × 20 × 3 cm (Kit 4un)",
+    "weight": "0,9 kg (kit)",
+    "weightCapacity": "Suporta até 15 kg por suporte"
   },
   {
     "id": "sp-35",
@@ -1038,16 +1208,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58260298171",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "30cm (Comprimento) × 25cm (Profundidade) × 78cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 30cm (Comprimento) × 25cm (Profundidade) × 78cm (Altura)",
+      "Peso aproximado: 3,6 kg",
+      "Capacidade de Carga: Suporta até 25 kg (8 a 10 pares)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 5 meses de anúncio",
-    "itemId": "58260298171"
+    "itemId": "58260298171",
+    "dimensionsCompact": "30 × 25 × 78 cm",
+    "weight": "3,6 kg",
+    "weightCapacity": "Suporta até 25 kg (8 a 10 pares)"
   },
   {
     "id": "sp-36",
@@ -1068,16 +1243,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/22894053967",
     "badge": "",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "Kit com 2 unidades: cada uma com 30 × 30 × 75 cm",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: Kit com 2 unidades: cada uma com 30 × 30 × 75 cm",
+      "Peso aproximado: 7,6 kg (par de estantes)",
+      "Capacidade de Carga: Suporta até 40 kg cada torre",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 5m de anúncio",
-    "itemId": "22894053967"
+    "itemId": "22894053967",
+    "dimensionsCompact": "30 × 30 × 75 cm (Kit 2 Torres)",
+    "weight": "7,6 kg (par de estantes)",
+    "weightCapacity": "Suporta até 40 kg cada torre"
   },
   {
     "id": "sp-37",
@@ -1098,16 +1278,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/20097654290",
     "badge": "",
     "description": "Estante multiuso versátil e resistente para organizar livros, decorações, plantas e utilidades domésticas. Estrutura sólida em madeira maciça de pinus, sustentável e charmosa em qualquer ambiente.",
-    "dimensions": "Dimensões compactas e otimizadas para apartamentos e casas.",
+    "dimensions": "65cm (Comprimento) × 28cm (Profundidade) × 45cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 65cm (Comprimento) × 28cm (Profundidade) × 45cm (Altura)",
+      "Peso aproximado: 4,6 kg",
+      "Capacidade de Carga: Suporta até 120 kg (assento reforçado)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 2 anos 7m de anúncio",
-    "itemId": "20097654290"
+    "itemId": "20097654290",
+    "dimensionsCompact": "65 × 28 × 45 cm",
+    "weight": "4,6 kg",
+    "weightCapacity": "Suporta até 120 kg (assento reforçado)"
   },
   {
     "id": "sp-38",
@@ -1128,16 +1313,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/23893644161",
     "badge": "",
     "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira maciça de pinus.",
-    "dimensions": "Tampo espaçoso e prateleira inferior de apoio para livros e celular.",
+    "dimensions": "60cm (Comprimento) × 30cm (Profundidade) × 75cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 60cm (Comprimento) × 30cm (Profundidade) × 75cm (Altura)",
+      "Peso aproximado: 4,2 kg",
+      "Capacidade de Carga: Suporta até 35 kg",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 1 ano 3m de anúncio",
-    "itemId": "23893644161"
+    "itemId": "23893644161",
+    "dimensionsCompact": "60 × 30 × 75 cm",
+    "weight": "4,2 kg",
+    "weightCapacity": "Suporta até 35 kg"
   },
   {
     "id": "sp-39",
@@ -1158,16 +1348,21 @@ export const PRODUCTS = [
     "shopeeUrl": "https://shopee.com.br/product/706753667/58200627725",
     "badge": "",
     "description": "Organize seus calçados com sofisticação e estilo natural. Fabricada 100% em madeira maciça de pinus selecionada, sem farpas, com encaixes reforçados e acabamento de alto padrão. Perfeita para quartos, closets, halls de entrada e corredores.",
-    "dimensions": "Dimensões aproximadas: 50cm (largura) x 25cm (profundidade) x 40cm a 70cm (altura) conforme o modelo.",
+    "dimensions": "65cm (Comprimento) × 28cm (Profundidade) × 45cm (Altura)",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
+      "Dimensões: 65cm (Comprimento) × 28cm (Profundidade) × 45cm (Altura)",
+      "Peso aproximado: 4,6 kg",
+      "Capacidade de Carga: Suporta até 120 kg (assento reforçado)",
       "Acabamento liso lixado sem farpas e toque aveludado",
-      "Alta resistência e durabilidade estrutural",
-      "Montagem simples e intuitiva (parafusos inclusos)",
-      "Garantia de fábrica e envio com proteção reforçada"
+      "Montagem simples e intuitiva (acompanha parafusos)",
+      "Garantia de fábrica SpotClick e envio com embalagem reforçada"
     ],
     "activeTime": "Proxys Decor · 11 meses de anúncio",
-    "itemId": "58200627725"
+    "itemId": "58200627725",
+    "dimensionsCompact": "65 × 28 × 45 cm",
+    "weight": "4,6 kg",
+    "weightCapacity": "Suporta até 120 kg (assento reforçado)"
   }
 ];
 
@@ -1187,8 +1382,6 @@ export const STORE_INFO = {
   phone: '11-997641700',
   phoneFormatted: '(11) 99764-1700',
   whatsappUrl: 'https://wa.me/5511997641700',
-  shopeeStoreUrl: 'https://shopee.com.br/shop/706753667',
-  sellerId: '706753667',
   location: 'São Paulo - SP',
   shipping: 'Enviamos para todo o Brasil',
   rating: 4.7,

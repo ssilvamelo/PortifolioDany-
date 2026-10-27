@@ -10,7 +10,9 @@ import {
   Eye,
   ShoppingBag,
   TrendingUp,
-  PackageCheck
+  PackageCheck,
+  Ruler,
+  Scale
 } from 'lucide-react';
 import { PRODUCTS, CATEGORIES, STORE_INFO } from '../data/products';
 
@@ -84,7 +86,7 @@ export default function Catalog({
             Encontre o móvel ideal para transformar seu espaço
           </h2>
           <p className="mt-3 text-stone-600 text-sm sm:text-base leading-relaxed">
-            Feitos à mão em madeira maciça de pinus com durabilidade comprovada. Compre diretamente pelo WhatsApp com atendimento exclusivo ou pela nossa Loja Oficial na Shopee.
+            Feitos à mão em madeira maciça de pinus com durabilidade comprovada. Compre diretamente pelo WhatsApp com atendimento exclusivo e envio para todo o Brasil.
           </p>
         </div>
 
@@ -256,6 +258,18 @@ export default function Catalog({
                       </h3>
                     </div>
 
+                    {/* Dimensions & Weight Spec Badges */}
+                    <div className="grid grid-cols-2 gap-1.5 py-1.5 px-2.5 bg-pinus-50/70 rounded-xl border border-pinus-100 text-[11px] text-stone-700">
+                      <div className="flex items-center gap-1 min-w-0" title={`Dimensões: ${product.dimensions}`}>
+                        <Ruler className="w-3.5 h-3.5 text-pinus-800 flex-shrink-0" />
+                        <span className="truncate font-semibold">{product.dimensionsCompact}</span>
+                      </div>
+                      <div className="flex items-center gap-1 min-w-0 justify-end" title={`Peso: ${product.weight} • ${product.weightCapacity}`}>
+                        <Scale className="w-3.5 h-3.5 text-pinus-800 flex-shrink-0" />
+                        <span className="truncate font-semibold">{product.weight}</span>
+                      </div>
+                    </div>
+
                     {/* Price & Installments */}
                     <div className="pt-2 border-t border-stone-100">
                       <div className="flex items-baseline gap-2">
@@ -284,7 +298,7 @@ export default function Catalog({
                         <span>Comprar no WhatsApp</span>
                       </a>
 
-                      {/* Secondary Buttons: Quote Bag + Shopee */}
+                      {/* Secondary Buttons: Add to Quote + View Details */}
                       <div className="grid grid-cols-2 gap-2">
                         <button
                           onClick={() => onAddToQuote(product)}
@@ -307,16 +321,14 @@ export default function Catalog({
                           )}
                         </button>
 
-                        <a
-                          href={product.shopeeUrl}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="flex items-center justify-center gap-1 py-2 px-2.5 rounded-xl text-[11px] font-bold bg-[#EE4D2D]/10 hover:bg-[#EE4D2D]/20 text-[#EE4D2D] border border-[#EE4D2D]/20 transition-all"
-                          title="Ver anúncio na Shopee"
+                        <button
+                          onClick={() => onOpenProductModal(product)}
+                          className="flex items-center justify-center gap-1 py-2 px-2.5 rounded-xl text-[11px] font-bold bg-pinus-100/70 hover:bg-pinus-200/70 text-pinus-900 border border-pinus-300 transition-all"
+                          title="Ver todas as medidas e fotos"
                         >
-                          <span>Shopee</span>
-                          <ExternalLink className="w-3 h-3" />
-                        </a>
+                          <Eye className="w-3.5 h-3.5 text-pinus-800" />
+                          <span>Detalhes</span>
+                        </button>
                       </div>
                     </div>
 

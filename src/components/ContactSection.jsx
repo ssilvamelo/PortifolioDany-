@@ -78,28 +78,23 @@ export default function ContactSection() {
                 </div>
               </a>
 
-              {/* Shopee Official Store */}
-              <a
-                href={STORE_INFO.shopeeStoreUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm hover:border-[#EE4D2D]/60 hover:shadow-md transition-all flex items-start gap-4 group"
-              >
-                <div className="w-12 h-12 rounded-xl bg-[#EE4D2D] text-white flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform">
-                  <ExternalLink className="w-6 h-6" />
+              {/* Factory Guarantee & Direct Support Card */}
+              <div className="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm flex items-start gap-4">
+                <div className="w-12 h-12 rounded-xl bg-pinus-800 text-white flex items-center justify-center flex-shrink-0">
+                  <ShieldCheck className="w-6 h-6 text-pinus-300" />
                 </div>
                 <div>
-                  <div className="text-[11px] font-bold uppercase tracking-wider text-[#EE4D2D]">
-                    Loja Oficial Shopee
+                  <div className="text-[11px] font-bold uppercase tracking-wider text-pinus-800">
+                    Garantia de Fábrica SpotClick
                   </div>
                   <div className="text-base font-extrabold text-stone-900 mt-0.5">
-                    shopee.com.br/shop/706753667
+                    100% Madeira Maciça de Pinus
                   </div>
                   <div className="text-xs text-stone-500 mt-0.5">
-                    Catálogo com mais de 10.000 avaliações 5 estrelas
+                    Embalagem protegida e suporte direto do marceneiro
                   </div>
                 </div>
-              </a>
+              </div>
 
               {/* Location & Hours */}
               <div className="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-3">

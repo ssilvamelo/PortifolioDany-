@@ -24,7 +24,7 @@ export default function FaqSection() {
     },
     {
       q: "Quais são as formas de pagamento disponíveis?",
-      a: "Pelo WhatsApp (11) 99764-1700 aceitamos PIX com desconto especial à vista ou cartão de crédito parcelado em até 3x sem juros. Você também pode efetuar a compra com todas as garantias através da nossa Loja Oficial na Shopee."
+      a: "Pelo WhatsApp (11) 99764-1700 aceitamos PIX com desconto especial à vista ou cartão de crédito parcelado em até 3x sem juros com envio seguro e nota fiscal direto da fábrica SpotClick."
     },
     {
       q: "Vocês atendem revendedores, lojistas ou pedidos em atacado?",

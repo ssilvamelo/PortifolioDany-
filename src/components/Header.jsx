@@ -39,15 +39,10 @@ export default function Header({
           </div>
 
           <div className="flex items-center gap-4 text-stone-300">
-            <a 
-              href={STORE_INFO.shopeeStoreUrl} 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="hover:text-pinus-300 transition-colors flex items-center gap-1 text-[11px]"
-            >
-              Loja Oficial Shopee ★ {STORE_INFO.rating}
-              <ExternalLink className="w-3 h-3 opacity-70" />
-            </a>
+            <span className="text-stone-300 text-[11px] font-medium flex items-center gap-1">
+              <ShieldCheck className="w-3.5 h-3.5 text-pinus-400" />
+              100% Madeira Maciça de Pinus Selecionada
+            </span>
             <span>•</span>
             <a 
               href={`https://wa.me/5511997641700?text=${encodeURIComponent('Olá! Vim pelo site da SpotClick e gostaria de tirar uma dúvida.')}`}
@@ -245,7 +240,7 @@ export default function Header({
             </a>
           </nav>
 
-          <div className="pt-3 border-t border-stone-200 space-y-2">
+          <div className="pt-3 border-t border-stone-200">
             <a
               href={`https://wa.me/5511997641700?text=${encodeURIComponent('Olá! Gostaria de fazer um pedido ou tirar dúvidas com a SpotClick.')}`}
               target="_blank"
@@ -254,16 +249,6 @@ export default function Header({
             >
               <MessageCircle className="w-5 h-5 fill-white" />
               WhatsApp: (11) 99764-1700
-            </a>
-
-            <a
-              href={STORE_INFO.shopeeStoreUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="w-full flex items-center justify-center gap-2 py-2.5 bg-[#EE4D2D] hover:bg-[#d43f21] text-white rounded-xl font-semibold text-sm shadow"
-            >
-              Ver Loja Oficial na Shopee
-              <ExternalLink className="w-4 h-4" />
             </a>
           </div>
         </div>

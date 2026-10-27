@@ -122,16 +122,15 @@ export default function ReviewsSection() {
           ))}
         </div>
 
-        {/* Shopee Store Link CTA */}
+        {/* WhatsApp Direct CTA */}
         <div className="mt-12 text-center">
           <a
-            href={STORE_INFO.shopeeStoreUrl}
+            href={`https://wa.me/5511997641700?text=${encodeURIComponent('Olá SpotClick! Vi as avaliações no site e gostaria de fazer um pedido.')}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white border border-stone-300 hover:border-[#EE4D2D] text-stone-800 hover:text-[#EE4D2D] font-bold text-xs sm:text-sm shadow-sm transition-all"
+            className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-xs sm:text-sm shadow-md transition-all"
           >
-            <span>Ver todas as avaliações na nossa Loja Oficial da Shopee</span>
-            <ExternalLink className="w-4 h-4" />
+            <span>Falar com Nossa Equipe no WhatsApp: (11) 99764-1700</span>
           </a>
         </div>
 

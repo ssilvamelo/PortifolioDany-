@@ -10,7 +10,9 @@ import {
   Truck, 
   Wrench,
   TreePine,
-  Sparkles
+  Sparkles,
+  Ruler,
+  Scale
 } from 'lucide-react';
 import { STORE_INFO } from '../data/products';
 
@@ -100,11 +102,44 @@ export default function ProductModal({
                 {product.description}
               </p>
 
+              {/* Dimensions, Weight and Capacity Cards */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 p-3.5 rounded-2xl bg-pinus-50 border border-pinus-200/90 text-xs text-stone-800">
+                <div className="flex items-start gap-2">
+                  <Ruler className="w-4 h-4 text-pinus-800 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <span className="block text-[10px] font-bold uppercase tracking-wider text-stone-500">
+                      Dimensões
+                    </span>
+                    <span className="font-bold text-stone-900">{product.dimensions}</span>
+                  </div>
+                </div>
+
+                <div className="flex items-start gap-2">
+                  <Scale className="w-4 h-4 text-pinus-800 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <span className="block text-[10px] font-bold uppercase tracking-wider text-stone-500">
+                      Peso do Produto
+                    </span>
+                    <span className="font-bold text-stone-900">{product.weight}</span>
+                  </div>
+                </div>
+
+                <div className="flex items-start gap-2 sm:col-span-2 pt-1 border-t border-pinus-200/60">
+                  <ShieldCheck className="w-4 h-4 text-forest-600 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <span className="block text-[10px] font-bold uppercase tracking-wider text-stone-500">
+                      Capacidade de Suporte
+                    </span>
+                    <span className="font-semibold text-stone-900">{product.weightCapacity}</span>
+                  </div>
+                </div>
+              </div>
+
               {/* Technical Specifications Checklist */}
-              <div className="space-y-1.5 pt-2 border-t border-stone-100 text-xs text-stone-700">
+              <div className="space-y-1.5 pt-1 text-xs text-stone-700">
                 <div className="flex items-center gap-2">
                   <TreePine className="w-4 h-4 text-forest-600 flex-shrink-0" />
-                  <span><strong>Material:</strong> Madeira Maciça de Pinus 100% Reflorestado</span>
+                  <span><strong>Material:</strong> 100% Madeira Maciça de Pinus de Reflorestamento</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Wrench className="w-4 h-4 text-forest-600 flex-shrink-0" />
@@ -113,10 +148,6 @@ export default function ProductModal({
                 <div className="flex items-center gap-2">
                   <Truck className="w-4 h-4 text-forest-600 flex-shrink-0" />
                   <span><strong>Envio:</strong> Embalagem reforçada com entrega para todo o Brasil</span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <ShieldCheck className="w-4 h-4 text-forest-600 flex-shrink-0" />
-                  <span><strong>Garantia:</strong> Garantia direta do fabricante SpotClick</span>
                 </div>
               </div>
             </div>
@@ -134,39 +165,27 @@ export default function ProductModal({
                 <span>Comprar pelo WhatsApp: (11) 99764-1700</span>
               </a>
 
-              {/* Secondary Actions */}
-              <div className="grid grid-cols-2 gap-2">
-                <button
-                  onClick={() => onAddToQuote(product)}
-                  className={`py-2.5 px-3 rounded-xl text-xs font-bold border transition-all flex items-center justify-center gap-1.5 ${
-                    isInQuote
-                      ? 'bg-pinus-100 text-pinus-900 border-pinus-400'
-                      : 'bg-stone-50 text-stone-700 border-stone-200 hover:bg-stone-100'
-                  }`}
-                >
-                  {isInQuote ? (
-                    <>
-                      <Check className="w-4 h-4 text-emerald-600" />
-                      <span>Adicionado à Lista</span>
-                    </>
-                  ) : (
-                    <>
-                      <Plus className="w-4 h-4 text-stone-500" />
-                      <span>Adicionar ao Orçamento</span>
-                    </>
-                  )}
-                </button>
-
-                <a
-                  href={product.shopeeUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="py-2.5 px-3 rounded-xl text-xs font-bold bg-[#EE4D2D] hover:bg-[#d43f21] text-white shadow-sm transition-all flex items-center justify-center gap-1.5"
-                >
-                  <span>Ver na Shopee</span>
-                  <ExternalLink className="w-3.5 h-3.5" />
-                </a>
-              </div>
+              {/* Add to Quote Button (Full Width, without Shopee) */}
+              <button
+                onClick={() => onAddToQuote(product)}
+                className={`w-full py-3 px-4 rounded-xl text-xs font-bold border transition-all flex items-center justify-center gap-2 ${
+                  isInQuote
+                    ? 'bg-pinus-100 text-pinus-900 border-pinus-400'
+                    : 'bg-stone-50 text-stone-700 border-stone-200 hover:bg-stone-100'
+                }`}
+              >
+                {isInQuote ? (
+                  <>
+                    <Check className="w-4 h-4 text-emerald-600" />
+                    <span>Produto já adicionado à sua lista de orçamento</span>
+                  </>
+                ) : (
+                  <>
+                    <Plus className="w-4 h-4 text-stone-600" />
+                    <span>Adicionar à Lista de Orçamento</span>
+                  </>
+                )}
+              </button>
             </div>
 
           </div>
