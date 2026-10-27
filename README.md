@@ -1,4 +1,4 @@
-# 🪵 SpotClick - Catálogo & Portfólio de Móveis em Madeira Maciça
+# 🪵 SpotClick - Catálogo & Portfólio de Móveis em Madeira Maciça de Pinus
 
 Site e portfólio de alta performance da **SpotClick**, fabricante de móveis e decorações artesanais em madeira maciça de pinus de reflorestamento, pronto para deploy na **Vercel**.
 

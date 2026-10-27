@@ -5,7 +5,7 @@ export default function TrustBar() {
   const pillars = [
     {
       icon: TreePine,
-      title: "Madeira Maciça Selecionada",
+      title: "Madeira Maciça de Pinus Selecionada",
       desc: "Pinus reflorestado, lixado e seco em estufa com toque aveludado."
     },
     {

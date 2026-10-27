@@ -25,7 +25,7 @@ export default function AboutSection() {
               <div className="aspect-[4/3] rounded-3xl overflow-hidden bg-pinus-100 shadow-xl border-4 border-white">
                 <img
                   src="https://down-br.img.susercontent.com/file/br-11134207-820l6-mu7zujgbcv7k8e"
-                  alt="Móveis em Madeira Maciça SpotClick"
+                  alt="Móveis em Madeira Maciça de Pinus SpotClick"
                   className="w-full h-full object-cover"
                 />
               </div>

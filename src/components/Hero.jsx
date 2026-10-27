@@ -36,7 +36,7 @@ export default function Hero({ onOpenProductModal }) {
 
             {/* Main Headline */}
             <h1 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-extrabold text-stone-900 tracking-tight leading-[1.15]">
-              Móveis e Decoração com o charme natural da <span className="text-pinus-700 underline decoration-pinus-400 decoration-wavy decoration-2">madeira maciça</span>.
+              Móveis e Decoração com o charme natural da <span className="text-pinus-700 underline decoration-pinus-400 decoration-wavy decoration-2">madeira maciça de pinus</span>.
             </h1>
 
             {/* Subtitle */}

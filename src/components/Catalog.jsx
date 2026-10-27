@@ -84,7 +84,7 @@ export default function Catalog({
             Encontre o móvel ideal para transformar seu espaço
           </h2>
           <p className="mt-3 text-stone-600 text-sm sm:text-base leading-relaxed">
-            Feitos à mão em madeira maciça com durabilidade comprovada. Compre diretamente pelo WhatsApp com atendimento exclusivo ou pela nossa Loja Oficial na Shopee.
+            Feitos à mão em madeira maciça de pinus com durabilidade comprovada. Compre diretamente pelo WhatsApp com atendimento exclusivo ou pela nossa Loja Oficial na Shopee.
           </p>
         </div>
 

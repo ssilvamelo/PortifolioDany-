@@ -30,7 +30,7 @@ export default function Footer({ onSelectCategory }) {
                   Spot<span className="text-pinus-400">Click</span>
                 </span>
                 <span className="block text-[10px] tracking-wider uppercase font-semibold text-pinus-300">
-                  Móveis em Madeira Maciça
+                  Móveis em Madeira Maciça de Pinus
                 </span>
               </div>
             </div>

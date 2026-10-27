@@ -34,7 +34,7 @@ export default function ReviewsSection() {
       product: "Kit 10 Mão Francesa Pinus 22x22",
       rating: 5,
       date: "Há 3 semanas",
-      comment: "Mão francesa de extrema qualidade. Já vem com os parafusos corretos e a furação certinha. Madeira maciça bem robusta, aguentou as prateleiras da cozinha com facilidade. Vale cada centavo."
+      comment: "Mão francesa de extrema qualidade. Já vem com os parafusos corretos e a furação certinha. Madeira maciça de pinus bem robusta, aguentou as prateleiras da cozinha com facilidade. Vale cada centavo."
     },
     {
       name: "Beatriz Moreira",

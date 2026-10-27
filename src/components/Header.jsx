@@ -77,7 +77,7 @@ export default function Header({
                 Spot<span className="text-pinus-600">Click</span>
               </span>
               <span className="text-[10px] tracking-wider uppercase font-semibold text-stone-500">
-                Móveis em Madeira Maciça
+                Móveis em Madeira Maciça de Pinus
               </span>
             </div>
           </a>

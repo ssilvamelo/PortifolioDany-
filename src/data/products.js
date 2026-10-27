@@ -107,7 +107,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820lp-mty1mzzus5c0d7",
     "shopeeUrl": "https://shopee.com.br/product/706753667/58212443867",
     "badge": "⭐ Escolha dos Clientes",
-    "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira.",
+    "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira maciça de pinus.",
     "dimensions": "Tampo espaçoso e prateleira inferior de apoio para livros e celular.",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -257,7 +257,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820la-mth526f4gvlveb",
     "shopeeUrl": "https://shopee.com.br/product/706753667/58259915812",
     "badge": "",
-    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
+    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
     "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -347,7 +347,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820lo-msfz63zujpxg60",
     "shopeeUrl": "https://shopee.com.br/product/706753667/18272983503",
     "badge": "",
-    "description": "Kit de suportes mão francesa em madeira maciça reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
+    "description": "Kit de suportes mão francesa em madeira maciça de pinus reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
     "dimensions": "Medidas padronizadas com furação precisa e instalação descomplicada.",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -377,7 +377,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820m2-msej33x7erye39",
     "shopeeUrl": "https://shopee.com.br/product/706753667/22294166462",
     "badge": "🏷️ Preço de Fábrica",
-    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
+    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
     "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -407,7 +407,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820lp-msekj6kxoc1ya3",
     "shopeeUrl": "https://shopee.com.br/product/706753667/22194003884",
     "badge": "🏷️ Preço de Fábrica",
-    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
+    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
     "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -467,7 +467,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134201-820m4-mu7930o3e1vk56",
     "shopeeUrl": "https://shopee.com.br/product/706753667/21754568271",
     "badge": "",
-    "description": "Kit de suportes mão francesa em madeira maciça reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
+    "description": "Kit de suportes mão francesa em madeira maciça de pinus reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
     "dimensions": "Medidas padronizadas com furação precisa e instalação descomplicada.",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -527,7 +527,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820m9-mrsxjvu8tlvr58",
     "shopeeUrl": "https://shopee.com.br/product/706753667/20498261565",
     "badge": "",
-    "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira.",
+    "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira maciça de pinus.",
     "dimensions": "Tampo espaçoso e prateleira inferior de apoio para livros e celular.",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -557,7 +557,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/sg-11134201-22100-u7dvd63wgtivdf",
     "shopeeUrl": "https://shopee.com.br/product/706753667/20255667595",
     "badge": "",
-    "description": "Kit de suportes mão francesa em madeira maciça reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
+    "description": "Kit de suportes mão francesa em madeira maciça de pinus reforçada com parafusos inclusos. Excelente capacidade de carga para apoiar prateleiras, livros, plantas e objetos decorativos com segurança.",
     "dimensions": "Medidas padronizadas com furação precisa e instalação descomplicada.",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -797,7 +797,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820ld-mrhl2hmas6x3f0",
     "shopeeUrl": "https://shopee.com.br/product/706753667/58215574638",
     "badge": "",
-    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
+    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
     "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -857,7 +857,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820m7-mu9nnifysa2qa6",
     "shopeeUrl": "https://shopee.com.br/product/706753667/23997736000",
     "badge": "🏷️ Preço de Fábrica",
-    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
+    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
     "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -932,8 +932,8 @@ export const PRODUCTS = [
   {
     "id": "sp-32",
     "rank": 32,
-    "name": "Cabideiro de Parede Madeira Maciça Arara Mancebo Expositor de Roupas Organizador Multiuso",
-    "shortName": "Cabideiro de Parede Madeira Maciça Arara Mancebo Expositor de Roupas Organizador Multiuso",
+    "name": "Cabideiro de Parede Madeira Maciça de Pinus Arara Mancebo Expositor de Roupas Organizador Multiuso",
+    "shortName": "Cabideiro de Parede Madeira Maciça de Pinus Arara Mancebo Expositor de Roupas Organizador Multiuso",
     "categoryId": "cabideiros",
     "categoryName": "Cabideiros & Araras",
     "price": 59.8,
@@ -1007,7 +1007,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820lz-mu7y1sqb3fgjbd",
     "shopeeUrl": "https://shopee.com.br/product/706753667/58218929651",
     "badge": "✨ Nota 4.8+ Máxima Avaliação",
-    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
+    "description": "Destaque suas plantas e flores com elegância rústica. Suporte em madeira maciça de pinus resistente à umidade moderada, ideal para suculentas, samambaias e folhagens na sala ou varanda.",
     "dimensions": "Compatível com vasos padrão pequeno, médio e grande (15cm a 30cm).",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
@@ -1127,7 +1127,7 @@ export const PRODUCTS = [
     "image": "https://down-br.img.susercontent.com/file/br-11134207-820mh-mlgn9la4ddzace",
     "shopeeUrl": "https://shopee.com.br/product/706753667/23893644161",
     "badge": "",
-    "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira.",
+    "description": "Móvel funcional com design minimalista nórdico. Ideal como mesa de cabeceira para quarto ou aparador para hall e sala, proporcionando aconchego com a textura natural da madeira maciça de pinus.",
     "dimensions": "Tampo espaçoso e prateleira inferior de apoio para livros e celular.",
     "features": [
       "100% Madeira Maciça de Pinus de Reflorestamento",
