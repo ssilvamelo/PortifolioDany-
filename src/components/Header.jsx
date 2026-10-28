@@ -8,7 +8,8 @@ import {
   Phone, 
   ExternalLink,
   ShieldCheck,
-  Truck
+  Truck,
+  FileText
 } from 'lucide-react';
 import { STORE_INFO } from '../data/products';
 
@@ -130,6 +131,17 @@ export default function Header({
               <Search className="w-5 h-5" />
             </button>
 
+            {/* Baixar Catálogo PDF */}
+            <a
+              href="./Catalogo-SpotClick.pdf"
+              download="Catalogo-SpotClick-Madeira-Macica-Pinus.pdf"
+              className="hidden md:inline-flex items-center gap-1.5 px-3 py-1.5 bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-300 rounded-full text-xs font-semibold shadow-sm transition-all"
+              title="Baixar Catálogo Oficial em PDF"
+            >
+              <FileText className="w-3.5 h-3.5 text-amber-700" />
+              <span>Baixar PDF</span>
+            </a>
+
             {/* WhatsApp Fast Contact Button */}
             <a
               href={`https://wa.me/5511997641700?text=${encodeURIComponent('Olá SpotClick! Gostaria de consultar informações sobre os móveis.')}`}
@@ -240,7 +252,15 @@ export default function Header({
             </a>
           </nav>
 
-          <div className="pt-3 border-t border-stone-200">
+          <div className="pt-3 border-t border-stone-200 flex flex-col gap-2">
+            <a
+              href="./Catalogo-SpotClick.pdf"
+              download="Catalogo-SpotClick-Madeira-Macica-Pinus.pdf"
+              className="w-full flex items-center justify-center gap-2 py-2.5 bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-300 rounded-xl font-bold shadow-sm text-sm"
+            >
+              <FileText className="w-4 h-4 text-amber-800" />
+              📥 Baixar Catálogo Completo (PDF)
+            </a>
             <a
               href={`https://wa.me/5511997641700?text=${encodeURIComponent('Olá! Gostaria de fazer um pedido ou tirar dúvidas com a SpotClick.')}`}
               target="_blank"

@@ -8,7 +8,8 @@ import {
   CheckCircle2, 
   Award,
   TreePine,
-  TrendingUp
+  TrendingUp,
+  FileText
 } from 'lucide-react';
 import { STORE_INFO, PRODUCTS } from '../data/products';
 
@@ -77,7 +78,16 @@ export default function Hero({ onOpenProductModal }) {
                 className="w-full sm:w-auto px-6 py-3.5 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all flex items-center justify-center gap-2"
               >
                 <MessageCircle className="w-4 h-4 fill-white" />
-                <span>Comprar pelo WhatsApp: (11) 99764-1700</span>
+                <span>WhatsApp: (11) 99764-1700</span>
+              </a>
+
+              <a
+                href="./Catalogo-SpotClick.pdf"
+                download="Catalogo-SpotClick-Madeira-Macica-Pinus.pdf"
+                className="w-full sm:w-auto px-5 py-3.5 rounded-xl bg-amber-100 hover:bg-amber-200 text-amber-950 font-bold text-sm border border-amber-300 shadow-sm transition-all flex items-center justify-center gap-2"
+              >
+                <FileText className="w-4 h-4 text-amber-800" />
+                <span>Baixar Catálogo em PDF</span>
               </a>
             </div>
 
